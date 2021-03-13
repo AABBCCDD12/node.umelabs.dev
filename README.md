@@ -17,7 +17,7 @@
 
 >  https://twitter.com/umelabs 欢迎关注推特账号
 
-<blockquote style="color:red;font-size:20px;">新年快乐！🔔祝大家一切顺利！</blockquote>
+<blockquote style="color:red;font-size:20px;">电脑出问题了，抱歉🙏</blockquote>
 
 # SS
 
@@ -46,7 +46,7 @@ vmess://eyJhZGQiOiJ2MnVzMDMuaXN4YS50b3AiLCJob3N0IjoiIiwiaWQiOiJjYjA3N2Q2OS04OWUx
 
 
 
-> 更新于2021.02.24
+> 更新于2021.03.12
 
 ---
 
